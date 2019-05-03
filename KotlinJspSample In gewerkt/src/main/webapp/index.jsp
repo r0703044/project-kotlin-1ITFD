@@ -13,7 +13,7 @@
     <body>
         <div>
             <h1>Create new Person</h1>
-            <form action="MakeServlet">
+            <form action="KtMakeServlet">
             <!--<form action="KtMakeServlet">-->
                 <p> 
                     <label for="firstName"> First Name: </label>
